@@ -8,7 +8,8 @@ Credit risk is an unbalanced classification problem, as good loans easily outnum
 **Oversampling**
 
 - Naive Random Oversampling
-<img src="Resources/model1.PNG" width="500">
+  <img src="Resources/model1.PNG" width="700">
+
 - SMOTE Oversampling
 
 **Undersampling**
