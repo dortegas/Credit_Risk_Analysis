@@ -21,19 +21,31 @@ Credit risk is an unbalanced classification problem, as good loans easily outnum
 
 <ins>**Undersampling**</ins>
 
-- Cluster Centroids
-<img src="Resources/model3.PNG" width="750">
+**Cluster Centroids**
+- Model balanced accuracy: 54%
+- **High Risk** - Precision: 1%, Recall: 69% 
+- **Low Risk**  - Precision: 100%, Recall: 40%
+<img src="Resources/model3.PNG">
 
-- SMOTEENN Combination (Over and Under) Sampling
-<img src="Resources/model4.PNG" width="750">
+**SMOTEENN Combination (Over and Under) Sampling**
+- Model balanced accuracy: 54%
+- **High Risk** - Precision: 1%, Recall: 76% 
+- **Low Risk**  - Precision: 100%, Recall: 59%
+<img src="Resources/model4.PNG">
 
 <ins>**Ensemble Learners**</ins>
 
-- Balanced Random Forest Classifier
-<img src="Resources/model5.PNG" width="750">
+**Balanced Random Forest Classifier**
+- Model balanced accuracy: 78%
+- **High Risk** - Precision: 3%, Recall: 70% 
+- **Low Risk**  - Precision: 100%, Recall: 87%
+<img src="Resources/model5.PNG">
 
-- Easy Ensemble AdaBoost Classifier
-<img src="Resources/model6.PNG" width="750">
+**Easy Ensemble AdaBoost Classifier**
+- Model balanced accuracy: 93%
+- **High Risk** - Precision: 9%, Recall: 92% 
+- **Low Risk**  - Precision: 100%, Recall: 94%
+<img src="Resources/model6.PNG">
 
 ## Summary
 
