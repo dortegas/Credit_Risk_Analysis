@@ -7,10 +7,10 @@ Credit risk is an unbalanced classification problem, as good loans easily outnum
 
 <ins>**Oversampling**</ins>
 
-- Naive Random Oversampling
-Model balanced accuracy: 64%
-**High Risk** - Precision: 1%, Recall: 69% 
-**Low Risk**  - Precision: 100%, Recall: 59%
+**Naive Random Oversampling**
+- Model balanced accuracy: 64%
+- **High Risk** - Precision: 1%, Recall: 69% 
+- **Low Risk**  - Precision: 100%, Recall: 59%
 <img src="Resources/model1.PNG" width="750">
 
 - SMOTE Oversampling
