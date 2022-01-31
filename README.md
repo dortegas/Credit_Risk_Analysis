@@ -49,4 +49,4 @@ Credit risk is an unbalanced classification problem, as good loans easily outnum
 
 ## Summary
 
-    
+Ensemble Learners models demonstrated superior recall performance in high-risk credit decisions compared to the other models in the analysis. However, the Easy Ensemble AdaBoost Classifier models' results showcase low precision scores, making them potential liabilities in real-life situations. These models are unreliable in our intended tasks, so I would not recommend them for predicting credit risk.
