@@ -13,7 +13,7 @@ Credit risk is an unbalanced classification problem, as good loans easily outnum
 - SMOTE Oversampling
 <img src="Resources/model2.PNG" width="700">
 
-**Undersampling**
+<ins>**Undersampling**</ins>
 
 - Cluster Centroids
 <img src="Resources/model3.PNG" width="700">
@@ -21,7 +21,7 @@ Credit risk is an unbalanced classification problem, as good loans easily outnum
 - SMOTEENN Combination (Over and Under) Sampling
 <img src="Resources/model4.PNG" width="700">
 
-**Ensemble Learners**
+<ins>**Ensemble Learners**</ins>
 
 - Balanced Random Forest Classifier
 <img src="Resources/model5.PNG" width="700">
